@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**mfranzon/mfranzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════════════════════════╗</span>
+<span style="color: #000080; text-decoration-color: #000080">║</span> I'm a software developer at eXact-lab, living in Trieste, Italy. I am currently working on a new <span style="color: #000080; text-decoration-color: #000080">║</span>
+<span style="color: #000080; text-decoration-color: #000080">║</span> MLOps framework; an end-2-end infrastructure to avoid boring DevOps.                             <span style="color: #000080; text-decoration-color: #000080">║</span>
+<span style="color: #000080; text-decoration-color: #000080">║</span>                                                                                                  <span style="color: #000080; text-decoration-color: #000080">║</span>
+<span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008000; text-decoration-color: #008000">Follow me on Twitter </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://twitter.com/marcofranzon_ap">@marcofranzon_ap</a></span>                                                            <span style="color: #000080; text-decoration-color: #000080">║</span>
+<span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008000; text-decoration-color: #008000">and on LinkdIn </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://www.linkedin.com/in/marco-franzon/">Contact</a></span>                                                                           <span style="color: #000080; text-decoration-color: #000080">║</span>
+<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════════════════════════════════════════════╝</span>
+🤓 Marco Franzon                                                                                    
+<span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🐍 Python at work, during the day                                                               
+<span style="color: #008080; text-decoration-color: #008080">┣━━ </span>📊 R for research, during the nigth                                                             
+<span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🌈 HTML/CSS/PHP for fun, sometimes, during the weekend                                          
+<span style="color: #008080; text-decoration-color: #008080">┗━━ </span>🔧 DevOps                                                                                       
+<span style="color: #008080; text-decoration-color: #008080">    ┣━━ </span>⚓ Kubernetes                                                                               
+<span style="color: #008080; text-decoration-color: #008080">    ┣━━ </span>🐳 Docker                                                                                   
+<span style="color: #008080; text-decoration-color: #008080">    ┗━━ </span>🔗 Singularity                                                                              
+</pre>
